@@ -1,6 +1,5 @@
-# jiuaibb
-评论
+# 特价版ULK测试
 
-http://30.203.50.112/
+特价版ULK（未封杀）：https://sstczw.cn/ulk/litetao
 
-https://b.mashort.cn/ulk/litetao
+淘宝ULK（已封杀）：https://b.mashort.cn/ulk/taobao
